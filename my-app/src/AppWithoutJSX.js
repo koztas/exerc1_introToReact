@@ -5,7 +5,9 @@ import React from 'react';
 export const AppWithoutJSX = () => {
 	return (
 		/*#__PURE__*/
+
 		// декларативный стиль в разметке
+
 		React.createElement(
 			'div',
 			{
