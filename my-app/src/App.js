@@ -4,6 +4,7 @@ import './App.css';
 export const App = () => {
 	return (
 		// декларативный стиль в разметке
+
 		<div className="App">
 			<header className="App-header">
 				<img src={logo} className="App-logo" alt="logo" />
